@@ -44,4 +44,5 @@ void setup() {
 
 void loop() {
   // Your loop code
+  delay(100);
 }
