@@ -25,7 +25,7 @@ void initialiseDisplay() {
     display.setTextColor(GxEPD_BLACK);
     display.setFullWindow();
     display.firstPage();
-    display.hibernate();
+    //display.hibernate();
     delay(1000);
 }
 
